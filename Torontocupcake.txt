@@ -1,0 +1,24 @@
+Toronto Cup cake - things that can be done better
+1)on the home page - not obvious where to click next to see what cupcakes they have. so it would need to
+be more inviting
+2) not sure why some have shading below them and others don't. so that would need to change
+3)it would make more sense to have a list of cupcakes and when you click on one you get a visual
+4)this bottom down approach seems cumbersome here, not sure that you need to scroll so far down .
+5) menu bar should be along the top instead of hidden on the left hand side of the screem. 
+6)i like pink but not necessary to highlght any color if it is along the top.
+
+Presentation - 
+
+Tome Milin and Aria Abrishamkar are presenting a Travel booking site. 
+The essentials then are:
+
+1) Responsive design (mobile friendly for sure)
+2) Smart and easy booking process
+3) Clear and structured navigation 
+4) Clear and informative pricings
+5) Beautiful images
+6) Customers’ ratings and testimonials
+7) Login feature (account creation, email setup, etc.)
+8) Easy and straightforward payment integration
+9) Effective search filters
+10) Predictive search
